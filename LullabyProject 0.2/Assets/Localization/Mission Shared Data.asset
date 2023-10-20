@@ -1,0 +1,195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Mission Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Mission
+  m_TableCollectionNameGuidString: c40d852fa945e2f4c972991691e5cd48
+  m_Entries:
+  - m_Id: 16454815744
+    m_Key: mission1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89087578112
+    m_Key: mission2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95093821440
+    m_Key: 'mission3
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112005255168
+    m_Key: 'missionEnd
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14768333688832
+    m_Key: brilho
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60194692829184
+    m_Key: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60197872111616
+    m_Key: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60200590020608
+    m_Key: Display
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60202603286528
+    m_Key: Control
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60206193610752
+    m_Key: Creditos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60724693471232
+    m_Key: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63090901684224
+    m_Key: FullScreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63098577260544
+    m_Key: Low
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63131229917184
+    m_Key: Medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63133746499584
+    m_Key: High
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65315426308096
+    m_Key: Master Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65318748196864
+    m_Key: Music Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65321973616640
+    m_Key: Effects Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65325631049728
+    m_Key: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65326738345984
+    m_Key: Option
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65327711424512
+    m_Key: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70471597461504
+    m_Key: W
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3257995706798080
+    m_Key: A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3257998919634944
+    m_Key: S
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3258000530247680
+    m_Key: D
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3258001637543936
+    m_Key: Shift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3258003181047808
+    m_Key: Ctrl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3258262233845760
+    m_Key: F
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3258263773155328
+    m_Key: R
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3258265081778176
+    m_Key: Esc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3258266155520000
+    m_Key: Game Designers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3258267367673856
+    m_Key: Programmers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3259460601024512
+    m_Key: Artistas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3276164278292480
+    m_Key: BackToMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3276167226888192
+    m_Key: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3314581909311488
+    m_Key: loss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3314584241344512
+    m_Key: win
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3324098957053952
+    m_Key: 'musicM
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3324101398138880
+    m_Key: musicT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3324558623412224
+    m_Key: play
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1072351733953069081
+  references:
+    version: 2
+    RefIds:
+    - rid: 1072351733953069081
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1686416109680

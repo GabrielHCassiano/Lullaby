@@ -1,0 +1,196 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Mission_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: c40d852fa945e2f4c972991691e5cd48, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 1072351935552815108
+  m_TableData:
+  - m_Id: 16454815744
+    m_Localized: 'Mission 1:
+
+      Find the key'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89087578112
+    m_Localized: 'Mission 2:
+
+      Find the battery'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95093821440
+    m_Localized: "Mission 3: \nWash the teddy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112005255168
+    m_Localized: Wait for the time to end
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14768333688832
+    m_Localized: Brightness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60194692829184
+    m_Localized: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60197872111616
+    m_Localized: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60200590020608
+    m_Localized: Display
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60202603286528
+    m_Localized: Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60724693471232
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60206193610752
+    m_Localized: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63090901684224
+    m_Localized: FullScreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63098577260544
+    m_Localized: Low
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63133746499584
+    m_Localized: High
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63131229917184
+    m_Localized: 'Average '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65315426308096
+    m_Localized: Master Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65318748196864
+    m_Localized: Music Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65321973616640
+    m_Localized: Effects Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65327711424512
+    m_Localized: Quit
+    m_Metadata:
+      m_Items:
+      - rid: 1072351935552815108
+  - m_Id: 65326738345984
+    m_Localized: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65325631049728
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70471597461504
+    m_Localized: W - Move forward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3257995706798080
+    m_Localized: A - Move left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3257998919634944
+    m_Localized: S - Move backwards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3258000530247680
+    m_Localized: D - Move right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3258001637543936
+    m_Localized: Shift - Run
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3258003181047808
+    m_Localized: Ctrl - Crouch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3258265081778176
+    m_Localized: Esc - Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3258263773155328
+    m_Localized: R - Flashlight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3258262233845760
+    m_Localized: F - Interact/Action
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3258266155520000
+    m_Localized: Game Designers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3258267367673856
+    m_Localized: Programmers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3259460601024512
+    m_Localized: Artists
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3276164278292480
+    m_Localized: Back to menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3276167226888192
+    m_Localized: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3314581909311488
+    m_Localized: You Died
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3314584241344512
+    m_Localized: You Survived!
+    m_Metadata:
+      m_Items:
+      - rid: 1072351935552815108
+  - m_Id: 3324101398138880
+    m_Localized: Songs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3324098957053952
+    m_Localized: 'Menu - Dark Lullaby
+
+      Credits - Come Litte Children'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3324558623412224
+    m_Localized: Thanks for playing!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 1072351935552815108
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0090084b6a3b0000009048c898c60b00

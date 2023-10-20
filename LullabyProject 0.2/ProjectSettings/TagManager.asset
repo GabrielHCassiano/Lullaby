@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Box
+  - Item
+  - Inimigo
+  - Som
+  - Lantena
+  - Bateria
+  - Porta
+  - Andar1
+  - Andar0
+  - "Vis\xE3o"
+  - Geladeira
+  - Jogo
+  - Loss
+  - Win
+  - Ponto1
+  - Ponto2
+  - PontoP
+  - PontoP1
+  - Times
+  - texts
+  - Key
+  - Lant
+  - Andar2
+  - Porao
+  - Andar1_2
+  - KeyPilha
+  - Teddy
+  - BoxCol
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Box
+  - Item
+  - Som
+  - Bateria
+  - Porta
+  - Lantena
+  - "Vis\xE3o"
+  - Geladeira
+  - Andar1
+  - Andar2
+  - Porao
+  - Alcapao
+  - Inimigo
+  - Wall
+  - Key
+  - Lant
+  - Objetos
+  - KeyPilha
+  - Teddy
+  - Banho
+  - BoxCol
+  - Tela
+  - Secret
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround0
+    uniqueID: 1081040491
+    locked: 0
+  - name: BackGround
+    uniqueID: 243542923
+    locked: 0
+  - name: ForeGround
+    uniqueID: 3506298415
+    locked: 0
+  - name: Secret
+    uniqueID: 1857908221
+    locked: 0
+  - name: Player
+    uniqueID: 1310675019
+    locked: 0
