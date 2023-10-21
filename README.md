@@ -6,18 +6,21 @@ Um garoto um dia acorda sozinho em sua casa guiado apenas por sua lanterna e seu
 
 
 # Game Designers: 
-
 Lucas França
-Pedro Faustino
-Caio Vasconcelos
 
+Pedro Faustino
+
+Caio Vasconcelos
 
 # Artists: 
 Paulo Daniel
+
 Felipe Freitas - https://github.com/Lip3e
+
 
 # Programmers:
 João Marcos
+
 Gabriel Henriques - https://github.com/GabrielHCassiano
 
 # Itch.io link: https://gabriel-henriques.itch.io/lullaby
